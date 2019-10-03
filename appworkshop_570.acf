@@ -1,0 +1,28 @@
+"AppWorkshop"
+{
+	"appid"		"570"
+	"SizeOnDisk"		"224551517"
+	"NeedsUpdate"		"1"
+	"NeedsDownload"		"0"
+	"TimeLastUpdated"		"1569826518"
+	"TimeLastAppRan"		"0"
+	"WorkshopItemsInstalled"
+	{
+		"1613886175"
+		{
+			"size"		"224551517"
+			"timeupdated"		"1568010968"
+			"manifest"		"1767712614806743120"
+		}
+	}
+	"WorkshopItemDetails"
+	{
+		"1613886175"
+		{
+			"manifest"		"166045936015151026"
+			"timeupdated"		"1569563528"
+			"timetouched"		"0"
+			"subscribedby"		"299289604,941300317"
+		}
+	}
+}
